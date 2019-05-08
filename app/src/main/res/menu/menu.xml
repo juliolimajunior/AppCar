@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mMusica"
+        android:icon="@drawable/ic_music_note_dp"
+        android:title="Musica"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/mMoeda"
+        android:icon="@drawable/ic_euro_symbol_dp"
+        android:title="Moeda"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/mMercado"
+        android:icon="@drawable/ic_shopping_cart_dp"
+        android:title="Mercado"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/mTempo"
+        android:icon="@drawable/tempo"
+        android:title="Tempo"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/mNoticia"
+        android:icon="@drawable/noticia"
+        android:title="Noticias"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/mCartao"
+        android:icon="@drawable/cartao"
+        android:title="Cartao"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/mPaises"
+        android:title="Paises"
+        app:showAsAction="ifRoom" />
+
+
+</menu>
